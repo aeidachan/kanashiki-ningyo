@@ -1,0 +1,15 @@
+{
+   "title":"Kanashiki Ningyo",
+   "description":"blah blah fill",
+   "author":"Monkey Butt",
+   "cover":"https://i.imgur.com/0D7whdp.png":{
+      "1":{
+         "title":"1",
+         "volume":"1",
+         "groups":{
+            "Good Girls":"/proxy/api/imgur/chapter/https://imgur.com/a/b49d0x2/"
+         },
+         "last_updated":"1631170103"
+      }
+   }
+}
